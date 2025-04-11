@@ -1,0 +1,13 @@
+/* src/components/Header.css */
+.header-container {
+    text-align: center;
+    padding: 20px 10px;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .center-logo {
+    height: 80px;
+    object-fit: contain;
+  }
+  
